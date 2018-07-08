@@ -1,12 +1,13 @@
 # slimapp-vue
 
 > ui customers with vue
-> this vue app use this api https://github.com/bradtraversy/slimapp
+
+this vue app use this api https://github.com/bradtraversy/slimapp
 
 ## library
-> vue
-> vue resource
-> vue router
+* vue
+* vue resource
+* vue router
 
 ## Build Setup
 
